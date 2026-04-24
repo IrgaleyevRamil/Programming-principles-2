@@ -1,0 +1,5 @@
+Monitor,2
+Headphones,4
+Samsung,23
+Wi-fi_Router,7
+Laptop_lenovo,15
